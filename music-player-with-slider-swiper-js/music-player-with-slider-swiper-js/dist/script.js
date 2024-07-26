@@ -10,7 +10,7 @@ const artistName = document.querySelector(".music-player p");
 const songs = [
   {
     title: "See You Again",
-    name: "Clean Bandit ft. Zara Larsson",
+    name: "Wiz Khalifa ft. Charlie Puth",
     source:
       "/assets/music/SeeYouAgain.mp3",
   },
@@ -26,10 +26,34 @@ const songs = [
     source:
       "/assets/music/Justin Bieber - Baby ft. Ludacris.mp3",
   },
- 
+  {
+    title: "Instant Crush",
+    name: "Daft Punk ft. Julian Casablancas",
+    source:
+      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
+  },
+  {
+    title: "As It Was",
+    name: "Harry Styles",
+    source:
+      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
+  },
+
+  {
+    title: "Physical",
+    name: "Dua Lipa",
+    source:
+      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
+  },
+  {
+    title: "Delicate",
+    name: "Taylor Swift",
+    source:
+      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+  },
 ];
 
-let currentSongIndex = 3;
+let currentSongIndex = 0;
 
 function updateSongInfo() {
   songName.textContent = songs[currentSongIndex].title;
