@@ -33,8 +33,8 @@ This portfolio is designed to highlight my work in web development, software eng
 ## 📬 Contact Me
 If you have any questions or want to collaborate, feel free to reach out:
 - 📧 Email: thanhtai5223@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [NTT19](https://github.com/NTT19)
+- 💼 LinkedIn: https://www.linkedin.com/in/tai-nguyen-095699319/
+- 🐙 GitHub: https://github.com/NTT19
 
 ---
 ⚡ **Stay tuned for more updates!**
